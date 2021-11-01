@@ -91,13 +91,17 @@ subtract the last amount of characters from the website name
 
 
 
+ask last two number of birth year
+
+
+
+add numbers to the end of the password
 
 
 
 
 
-
-
+present password
 
 
 end
